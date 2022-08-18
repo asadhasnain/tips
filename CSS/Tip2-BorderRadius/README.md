@@ -14,6 +14,6 @@ Good read: https://blog.hubspot.com/website/css-border-radius-circle
 https://www.w3schools.com/css/css3_images.asp
 
 Thumbnails
-Tst of image
+1st of image
 Filters
 https://www.w3schools.com/css/css3_images.asp
