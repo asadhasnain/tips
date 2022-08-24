@@ -2,7 +2,12 @@
 
 Nav bar for navigating different element of same page.
 
+## To build and run
+
 npm install
+
 npm run build
-npm run start
+
+npm start
+
 https://www.npmjs.com/package/react-scroll
