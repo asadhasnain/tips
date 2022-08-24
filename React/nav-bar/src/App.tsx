@@ -1,5 +1,5 @@
 import React from "react";
-import './App.css';
+import "./App.css";
 import { Bookings } from "./components/booking/Bookings";
 import { ContactUs } from "./components/contact/ContactUs";
 import { Destinations } from "./components/destination/Destinations";
