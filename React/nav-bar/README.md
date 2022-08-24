@@ -1,6 +1,5 @@
-# Next Idea:
+# Navbar
 
-Left Side Navigator
-Header
+Nav bar for navigating different element of same page.
 
-Swiper: https://www.npmjs.com/package/swiper
+https://www.npmjs.com/package/react-scroll
