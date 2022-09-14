@@ -1,0 +1,39 @@
+/* div:nth-child(3) {
+    background-color: yellowgreen;
+} */
+
+/* .circle:nth-child(even) {
+   background-color: yellowgreen;
+}
+
+.circle:nth-child(odd) { 
+    background-color: blue;
+}
+
+.circle:nth-child(3) {
+    background-color: yellowgreen;
+}
+
+*/
+
+.circle:nth-child(3n) {
+    background-color: yellowgreen;
+}
+
+.circle {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+* {
+    margin: 20px;
+}
+
+body {
+ display: flex;
+ flex-direction: row;
+ background: #d9d9d9;
+}
+
