@@ -1,0 +1,36 @@
+
+.circle:last-child {
+    background-color:red;
+}
+
+.square:last-child {
+    background-color:red;
+}
+
+.circle {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+.square {
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+    background-color: blue;
+}
+
+* {
+    margin: 20px;
+}
+
+body {
+    background: #d9d9d9;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
